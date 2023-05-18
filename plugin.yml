@@ -1,4 +1,4 @@
 version: "0.1"
-main: TheZero\Npc\Main
+main: TheZero\Main
 api: 4.0.0
 author: TheZero
